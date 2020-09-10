@@ -1,7 +1,7 @@
 # 🚀 Node API | Aplicando conceitos do SOLID
 
 <p align="center">
-<img src="https://github.com/ericoalmeida/solid-api/blob/master/Images/solid.png?raw=true" width="350" alt="solid" />
+<img src="https://github.com/ericoalmeida/solid-api/blob/master/Images/solid.png?raw=true" width="550" alt="solid" />
 </p>
 
 ### Conceitos SOLID
