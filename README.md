@@ -4,8 +4,6 @@
 <img src="https://github.com/ericoalmeida/solid-api/blob/master/Images/solid.png?raw=true" width="600" alt="solid" />
 </p>
 
-[![Express](https://badge.fury.io/js/express.svg)](https://badge.fury.io/js/express)
-
 ### Conceitos SOLID
 
 - **S** | SRP | Single Responsability Principle
